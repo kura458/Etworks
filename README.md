@@ -2,6 +2,16 @@
 
 Etworks is the React frontend for a job portal that supports job seekers, employers, and administrators. It provides the user-facing workflows for discovering jobs, managing applications, maintaining profiles, and accessing role-specific dashboards.
 
+## Frontend visual assets
+
+The repository includes these interface-related assets used by the frontend:
+
+| Hero visual | Authentication visual |
+|---|---|
+| ![Etworks hero background asset](public/herobg_v2.png) | ![Etworks authentication side asset](public/auth_side_image_v2.png) |
+
+These are existing design assets, not captured screenshots of the running application. Add real browser screenshots of the homepage, job listings, and role-specific dashboards when available.
+
 ## Main application areas
 
 - Account registration, email OTP verification, login, logout, and password reset
@@ -65,4 +75,5 @@ Some application routes or screens may still be under development. Verify the cu
 Maintained under [kura458](https://github.com/kura458).
 
 ---
+
 *Building practical job-search experiences with modern web technologies.*
